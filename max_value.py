@@ -5,7 +5,7 @@
 # This program will generate 10 random numbers between 0 and 100
 # and will determine the max number.
 # My program uses a list and a loop to do what is listed above.
-
+# Importing math and random modules.
 import random
 import constants
 
